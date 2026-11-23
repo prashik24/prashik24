@@ -1,4 +1,4 @@
-<!-- PROFILE README: Prashik Humane --
+<!-- PROFILE README: Prashik Humane  --
 
 <h1 align="center">👋 Hello, I'm <strong>Prashik Humane</strong></h1>
 
